@@ -1,13 +1,37 @@
 # rust-101
 
-#### build
+#### clone
+
+```
+git clone git@github.com:darren-rose/rust-101.git
+```
+
+#### build dev
 
 ```
 cargo build
 ```
 
+#### build release
+
+```
+cargo build --release
+```
+
 #### run
 
 ```
-./target/debug/rust-101
+cargo run
+```
+
+#### test
+
+```
+cargo test
+```
+
+#### bench
+
+```
+cargo bench
 ```
