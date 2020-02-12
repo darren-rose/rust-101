@@ -9,7 +9,7 @@ git clone git@github.com:darren-rose/rust-101.git
 #### build dev
 
 ```
-cargo build
+cargo build 
 ```
 
 #### build release
